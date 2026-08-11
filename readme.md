@@ -103,7 +103,7 @@ It includes the following topics:
             <td>
                 <ul>
                     <h3>🚀 Base resources</h3>
-                    <li><a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Introduction to Python</a>: 14-hours course (Free).</li>
+                    <li><a href="https://www.udacity.com/course/introduction-to-python--ud1110">Udacity | Introduction to Python</a>: 14-hours course (Free).</li>                    <li><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science?dc_euid=21962717">data camp | Introduction to Python</a>: 4-hours course ().</li>
                     <h3>💡 Alternative resources</h3>
                     <li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw">FreeCodeCamp | Python Full Course</a>: 4.5-hours YouTube video (Free).</li>
                     <li><a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=yWsnLKcsYqGcI0B4">Osama Elzero | Mastering Python Arabic course</a>: YouTube playlist (Free).</li>
